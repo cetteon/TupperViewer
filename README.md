@@ -466,3 +466,7 @@ Error: Invalid JSON: Expecting ',' delimiter
 ```
 
  Invalid or missing individual Tupper fields are handled separately and generally do not prevent the program from loading the export.
+
+ ## License
+
+Tupper Viewer is licensed under the GNU General Public License v3.0
