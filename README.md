@@ -1,4 +1,4 @@
-# Tupper Viewer
+# Tupper Viewer [![License](https://img.shields.io/github/license/cetteon/TupperViewer?style=flat-square)](https://github.com/cetteon/TupperViewer/blob/main/LICENSE)
 
 A simple command-line Python program for viewing, searching, and sorting Tupperbox JSON exports.
 
@@ -469,4 +469,4 @@ Error: Invalid JSON: Expecting ',' delimiter
 
  ## License
 
-Tupper Viewer is licensed under the GNU General Public License v3.0
+Tupper Viewer is licensed under the GNU General Public License v3.0. [Click here for more information.](https://github.com/cetteon/TupperViewer/blob/main/LICENSE)
