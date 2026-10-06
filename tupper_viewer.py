@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#    TupperViewer
+#    Tupper Viewer
 #    A simple command-line Python program for viewing, searching, and sorting Tupperbox JSON exports.
 #
 #    Copyright (C) 2026 cetteon
